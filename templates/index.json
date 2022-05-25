@@ -1,0 +1,221 @@
+{
+  "sections": {
+    "16515285999bf0a25e": {
+      "type": "slideshow",
+      "blocks": {
+        "165152859919fd7784-0": {
+          "type": "image",
+          "settings": {
+            "top_subheading": "Gotrailer",
+            "title": "Side Hustle  to Full Scale Operation",
+            "title_size": 40,
+            "subheading": "",
+            "link": "#shopify-section-template--15965834510589__16515123404c175dec",
+            "link_text": "Contact",
+            "link_2": "#CollectionSection-template--15965834510589__featured-collection",
+            "link_text_2": "Shop",
+            "color_accent": "#26ff29",
+            "text_align": "vertical-center horizontal-center",
+            "image": "shopify:\/\/shop_images\/truck-cropped_139ebf68-3dfe-49a6-a3a1-e7a7c0e019bd.heic",
+            "image_mobile": "shopify:\/\/shop_images\/IMG_1307.heic",
+            "overlay_opacity": 28,
+            "focal_point": "80% 100%"
+          }
+        }
+      },
+      "block_order": [
+        "165152859919fd7784-0"
+      ],
+      "settings": {
+        "section_height": "100vh",
+        "mobile_height": "auto",
+        "parallax": true,
+        "style": "bars",
+        "autoplay": true,
+        "autoplay_speed": 5
+      }
+    },
+    "1651588826170df822": {
+      "type": "hero-video",
+      "settings": {
+        "title": "Come Along",
+        "title_size": 80,
+        "subheading": "Follow us as we start from the ground up with a side hustle and scale into a full time operation",
+        "link_text": "",
+        "link": "",
+        "color_accent": "rgba(0,0,0,0)",
+        "text_align": "vertical-center horizontal-center",
+        "video_url": "https:\/\/cdn.shopify.com\/videos\/c\/o\/v\/bb13830e911a48899f6f336451def9a1.mp4",
+        "overlay_opacity": 0,
+        "section_height": "650px",
+        "mobile_height": "auto"
+      }
+    },
+    "1651512338a8d289d6": {
+      "type": "featured-collection",
+      "settings": {
+        "title": "Digital Templates",
+        "home_featured_products": "digital-products",
+        "per_row": 3,
+        "rows": 1,
+        "mobile_scrollable": false,
+        "view_all": true,
+        "divider": false
+      }
+    },
+    "1651587556e3df60a1": {
+      "type": "background-image-text",
+      "settings": {
+        "subtitle": "",
+        "title": "Incoming GiveAway!!!",
+        "text": "<p>Our next giveaway is on the horizon. We heard your requests loud and clear, so there's only one thing left to do!<\/p><p><\/p><p>The badass BCI Flatbed pictured here could in fact be yours! Make sure to follow on social media for updates!<\/p>",
+        "button_label": "",
+        "button_link": "",
+        "image": "shopify:\/\/shop_images\/IMG_7535.heic",
+        "focal_point": "center",
+        "layout": "right",
+        "height": 650,
+        "framed": false,
+        "parallax": true
+      }
+    },
+    "1653105800ff4ed1c3": {
+      "type": "text-and-image",
+      "settings": {
+        "image": "shopify:\/\/shop_images\/Steve.jpg",
+        "image_width": 700,
+        "subtitle": "",
+        "title": "Feeling Generous ??",
+        "text": "<p>The life of a Dumpster hustler is a life only the brave, strong, and extremely caffeinated dare to take on! <\/p><p> Help me and Mike keep the grind alive by buying us a coffee!<\/p>",
+        "button_label": "COOOOFFEEEE",
+        "button_link": "https:\/\/www.buymeacoffee.com\/gotrailer",
+        "button_style": "primary",
+        "align_text": "left",
+        "layout": "right",
+        "divider": false
+      }
+    },
+    "featured-collection": {
+      "type": "featured-collection",
+      "settings": {
+        "title": "T Shirts",
+        "home_featured_products": "shirts",
+        "per_row": 4,
+        "rows": 1,
+        "mobile_scrollable": false,
+        "view_all": true,
+        "divider": false
+      }
+    },
+    "16523056152362e5ef": {
+      "type": "background-image-text",
+      "settings": {
+        "subtitle": "Gotrailer",
+        "title": "Follow along as we grow",
+        "text": "<p>This year we will be doing several giveaways! Make sure you come along on the journey with us, and by the end of this year we will be one of the biggest and best giveaway companies you've ever seen!<\/p>",
+        "button_label": "",
+        "button_link": "",
+        "image": "shopify:\/\/shop_images\/F0178367-FF01-4F05-A833-6AC1E9F667E2_c785e2bc-cf10-4e31-8fa9-ba4f1d870f5f.jpg",
+        "focal_point": "center",
+        "layout": "left",
+        "height": 550,
+        "framed": false,
+        "parallax": true
+      }
+    },
+    "16515120937adbe286": {
+      "type": "featured-collection",
+      "settings": {
+        "title": "Lids",
+        "home_featured_products": "hats",
+        "per_row": 3,
+        "rows": 1,
+        "mobile_scrollable": false,
+        "view_all": true,
+        "divider": false
+      }
+    },
+    "16515122809200d6dd": {
+      "type": "featured-collection",
+      "disabled": true,
+      "settings": {
+        "title": "Key Chains",
+        "home_featured_products": "key-chains",
+        "per_row": 4,
+        "rows": 1,
+        "mobile_scrollable": false,
+        "view_all": true,
+        "divider": false
+      }
+    },
+    "1651512286f9f1f4b8": {
+      "type": "featured-collection",
+      "disabled": true,
+      "settings": {
+        "title": "Stickers",
+        "home_featured_products": "stickers",
+        "per_row": 4,
+        "rows": 1,
+        "mobile_scrollable": false,
+        "view_all": true,
+        "divider": false
+      }
+    },
+    "1651588829cd5c94f9": {
+      "type": "text-and-image",
+      "settings": {
+        "image": "shopify:\/\/shop_images\/IMG_7966.jpg",
+        "image2": "shopify:\/\/shop_images\/IMG_7965.jpg",
+        "image_width": 700,
+        "subtitle": "",
+        "title": "MEET the owners",
+        "text": "<p>Steve (Left) and Mike (Right). <\/p><p>Steve is the behind the scenes nerd doing all the key crunching and paperwork. Part Owner and <strong>C<\/strong>hief <strong>F<\/strong>inancial <strong>O<\/strong>fficer of GoTrailer.<\/p><p>Mike is the badass frontlines knuckle buster who makes Gotrailer come to life. Part Owner and <strong>C<\/strong>hief <strong>O<\/strong>perations <strong>O<\/strong>fficer of GoTrailer. <\/p><p><\/p>",
+        "button_label": "",
+        "button_link": "",
+        "button_style": "primary",
+        "align_text": "left",
+        "layout": "right",
+        "divider": false
+      }
+    },
+    "16515123404c175dec": {
+      "type": "contact-form",
+      "settings": {
+        "title": "Contact us",
+        "text": "",
+        "show_phone": false,
+        "narrow_column": true
+      }
+    },
+    "165230559987eb137c": {
+      "type": "background-video-text",
+      "disabled": true,
+      "settings": {
+        "subtitle": "Impressive",
+        "title": "Large video with text box",
+        "text": "<p>Pair large text with a full-width video to showcase your brand's lifestyle video or to describe and showcase an important detail of your products.<\/p>",
+        "button_label": "",
+        "button_link": "",
+        "video_url": "https:\/\/www.youtube.com\/watch?v=_9VUPq3SxOc",
+        "color_border": "#f4f4f4",
+        "layout": "left",
+        "height": 550
+      }
+    }
+  },
+  "order": [
+    "16515285999bf0a25e",
+    "1651588826170df822",
+    "1651512338a8d289d6",
+    "1651587556e3df60a1",
+    "1653105800ff4ed1c3",
+    "featured-collection",
+    "16523056152362e5ef",
+    "16515120937adbe286",
+    "16515122809200d6dd",
+    "1651512286f9f1f4b8",
+    "1651588829cd5c94f9",
+    "16515123404c175dec",
+    "165230559987eb137c"
+  ]
+}
