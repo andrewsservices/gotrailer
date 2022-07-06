@@ -171,7 +171,7 @@ Arguments
 
 
 
-      {% unless collection.title == 'Affiliate Products' %}
+      {% unless collection.title contains 'Affiliate' %}
         <div class="grid-product__price">
           {%- if on_sale -%}
             <span class="visually-hidden">{{ 'products.general.regular_price' | t }}</span>
